@@ -1,0 +1,57 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme GT Neo2 5G
+Device maintainer: Arsalan_zeus
+====================
+     04-05-2024
+====================
+- initial A14 build.
+- Add Dolby Atmos support.
+- Add Realme Hub.
+- fix Realme Camera and Gallery crashes.
+- Update proprietary blobs to RMX3370_13.1.0.801(EX01).
+- Update FP & Desc to RMX3370_13.1.0.801(EX01).
+- Expose dolby launcher in app drawer.
+- Add super dart charging support.
+- overlay: Mock LinearmotorVibratorService.
+- Add oplus camera init properties.
+- Link dolby blobs against v33 libstagefright_foundation.
+- Enable freeform windows.
+- overlay: Only allow 5G SA on Jio.
+- overlay: enable 5G SA and NSA.
+- prop: Enable APK fs-verity.
+- audio: Fix low mic volume on VoIP.
+- Enable usb adb debugging by default.
+- Ship prebuilt camera.device-impl libs.
+- Fix VOIP calls in some applications.
+- Fix path for low latency voip.
+- wifi: Disable RX wakelock feature.
+- rootdir: Fix EntropyMixer.
+- Build missing audio feature libs.
+- Ship prebuilt camera.device-impl libs.
+- enable fingerprint when screen is off.
+- Build android.media.audio.common.types-V2-cpp.
+- Ship custom camera configuration.
+- Modify oplus camera aps config to avoid crashes.
+- Import Adreno drivers from Oculus Quest 2.
+- DolbyManager: Adapted to A14/QPR2.
+- Parts: Adapted to A14/QPR2.
+- Disable Vulkan for hwui.
+- Remove unneeded vendor blobs.
+- Add missing camera blobs.
+- sepolicy: qti: Adress denials for Dolby Atmos.
+- doze: Migrate to CompoundButton.OnCheckedChangeListener.
+- sepolicy: qti: Add access to usb nodes for Realme Hub.
+- oplus: Enable use_resource_processor for all sysui deps.
+- doze: Fix build on QPR2.
+- Charger: Fix Compile Errors for UDC.
+- sepolicy: qti: Add oem_service.
+- sepolicy: Add rules for OnePlus Camera.
+- sepolicy: qti: Address more camera denials.
+- sepolicy: qti: Label additional camera denials.
+- sepolicy: Address cameraserver denials.
+- sepolicy: qti: vendor: properly define cammidas service.
+- sepolicy: qti: vendor: remove duplicate specifications.
+- sepolicy: Replace isolated_app with isolated_app_all.
+- Update kona adreno drivers to 757.
+- and so many changes.....
