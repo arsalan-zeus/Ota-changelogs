@@ -13,6 +13,7 @@ Device maintainer: Arsalan_zeus
 - Update FP & Desc to RMX3370_13.1.0.801(EX01).
 - Expose dolby launcher in app drawer.
 - Add super dart charging support.
+- Replace system ui sound effects to RUI sound effects.
 - overlay: Mock LinearmotorVibratorService.
 - Add oplus camera init properties.
 - Link dolby blobs against v33 libstagefright_foundation.
