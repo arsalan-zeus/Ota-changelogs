@@ -3,6 +3,14 @@ Build type: Monthly
 Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 ====================
+     06-05-2024
+====================
+- Add Custom Voice Recorder (Fossify Voice Recorder).
+- Fix Realme camera preview cut in half when in landscape mode.
+- Fix crashing of Realme camera in Text scanner mode.
+- Add Charging control.
+- Update adreno drivers to v757 v2.0 fixes blurr issues in games like codm.
+====================
      04-05-2024
 ====================
 - initial A14 build.
