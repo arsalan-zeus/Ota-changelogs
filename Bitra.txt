@@ -9,7 +9,6 @@ Device maintainer: Arsalan_zeus
 - Fix Realme camera preview cut in half when in landscape mode.
 - Fix crashing of Realme camera in Text scanner mode.
 - Add Charging control.
-- Update adreno drivers to v757 v2.0 fixes blurr issues in games like codm.
 ====================
      04-05-2024
 ====================
