@@ -8,6 +8,7 @@ Device maintainer: Arsalan_zeus
 - Updated to latest rom sources.
 - import previously removed fastcharging drivers.
 - fix gapps package not flashing on vanilla build.
+- signed build with private keys to pass safetynet.
 - and many more changes i forgot oops 😛.
 ====================
      06-05-2024
