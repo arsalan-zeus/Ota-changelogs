@@ -5,6 +5,13 @@ Device maintainer: Arsalan_zeus
 ====================
      06-05-2024
 ====================
+- Updated to latest rom sources.
+- import previously removed fastcharging drivers.
+- fix gapps package not flashing on vanilla build.
+- and many more changes i forgot oops 😛.
+====================
+     06-05-2024
+====================
 - Add Custom Voice Recorder (Fossify Voice Recorder).
 - Fix Realme camera preview cut in half when in landscape mode.
 - Fix crashing of Realme camera in Text scanner mode.
