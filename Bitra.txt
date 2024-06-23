@@ -3,7 +3,7 @@ Build type: Monthly
 Device: Realme GT Neo2 5G
 Device maintainer: Arsalan_zeus
 ====================
-     06-05-2024
+     23-06-2024
 ====================
 - Updated to latest rom sources.
 - import previously removed fastcharging drivers.
